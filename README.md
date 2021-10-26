@@ -1,1 +1,0 @@
-BVT Portfolio app built on React
